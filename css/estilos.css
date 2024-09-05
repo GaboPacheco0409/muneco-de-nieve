@@ -1,0 +1,168 @@
+*{
+    background-color: black;
+}
+.sombrero1{
+    background-color: blue;
+    position: relative;
+    left: 600px;
+    top: 100px;
+    width: 100px;
+    height: 70px;
+}
+.sombrero2{
+    background-color: blue;
+    position: relative;
+    left: 550px;
+    top: 90px;
+    width: 200px;
+    height: 30px;
+    border-radius: 100%;
+}
+.cabeza{
+    background-color: white;
+    position: relative;
+    left: 570px;
+    top: 70px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+.ojo1{
+    background-color: white;
+    position: absolute;
+    left: 30px;
+    top: 40px;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    border-color: black;
+    border: 5px solid;
+}
+.ojo2{
+    background-color: white;
+    position: absolute;
+    right: 30px;
+    top: 40px;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    border-color: black;
+    border: 5px solid;
+}
+.pupila{
+    background-color: black;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+       
+}
+.nariz1{
+    background-color: orange;
+    width: 40px;
+    height: 5px;
+    position: absolute;
+    left: 72px;
+    top: 100px;
+}
+.nariz2{
+    background-color: orange;
+    width: 18px;
+    height: 5px;
+    position: absolute;
+    left: 67px;
+    top: 90px;
+    transform: rotate(90deg);
+}
+.nariz3{
+    background-color: orange;
+    width: 49px;
+    height: 5px;
+    position: absolute;
+    left: 67px;
+    top: 90px;
+    transform: rotate(30deg);
+}
+.boca{
+    background-color: black;
+    width: 75px;
+    height: 4px;
+    position: absolute;
+    left: 40px;
+    bottom: 30px;
+
+}
+.cuerpo{
+    background-color: white;
+    position: relative;
+    left: 560px;
+    top: 50px;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+}
+.boton{
+    background-color: white;
+    position: absolute;
+    right: 70px;
+    top: 40px;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    border-color: black;
+    border: 5px solid;
+}
+.boton2{
+    background-color: white;
+    position: absolute;
+    right: 70px;
+    top: 70px;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    border-color: black;
+    border: 5px solid;
+}
+.boton3{
+    background-color: white;
+    position: absolute;
+    right: 70px;
+    top: 100px;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    border-color: black;
+    border: 5px solid;
+}
+.parte_de_abajo{
+    background-color: white;
+    position: relative;
+    left: 550px;
+    top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    padding-top: 40px;
+    padding-left: 30px  ;
+}
+
+.brazo1{
+    background-color: brown;
+    width: 200px;
+    height: 10px;
+    position: relative;
+    left: 400px;
+    bottom: 300px;
+    transform: rotate(30deg);
+}
+.brazo2{
+    background-color: brown;
+    width: 200px;
+    height: 10px;
+    position: relative;
+    left: 700px;
+    bottom: 300px;
+    transform: rotate(150deg);
+}
